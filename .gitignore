@@ -1,0 +1,13 @@
+
+*.ipch
+*.tlog
+*.idb
+*.obj
+*.db
+.vs/VoxelDx/v16/.suo
+*.recipe
+*.log
+*.pdb
+*.ilk
+*.exe
+*.lib
