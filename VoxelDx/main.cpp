@@ -5,11 +5,11 @@ int WINAPI wWinMain(_In_ HINSTANCE hInst, _In_opt_ HINSTANCE hPrevInst,
 {
 	Engine engine;
 
-	engine.Initialize(hInst, "Hello window", "mainWindow", 800, 600);
-
-	while (engine.ProcessMessages()) {
-		engine.Update();
-		engine.Render();
+	if (engine.Initialize(hInst, "Hello window", "mainWindow", 800, 600)) {
+		while (engine.ProcessMessages()) {
+			engine.Update();
+			engine.Render();
+		}
 	}
 
 	return S_OK;

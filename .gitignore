@@ -11,3 +11,8 @@
 *.ilk
 *.exe
 *.lib
+*.db-shm
+*.db-wal
+*.opendb
+*.txt
+*.cso
