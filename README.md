@@ -1,4 +1,3 @@
 # VoxelDx
 Started to develop DirectX skills after learning GameDev basis and OpenGL
-Here is a presentation of personalized software:
-https://www.youtube.com/watch?v=N74CBQlyUJ4
+[<img src="https://i.ytimg.com/vi/N74CBQlyUJ4/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=N74CBQlyUJ4 "3rd person camera movement C++/OpenGL")
